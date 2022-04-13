@@ -1,1 +1,2 @@
 This is most definitely a sentence.
+And this is a second sentence.
